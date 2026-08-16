@@ -1,37 +1,41 @@
 <!---### # Hi, I'm Darwin Darryl Jean Largoza 👋 -->
 ## Hi, I'm Darwin🙋‍♂️
 
+**Full Stack Developer & UI/UX Designer** — I take Figma to shipped, production software. React frontends, Node.js and Django backends, deployed on AWS.
 
 ## About Me
 
-I'm an IT student with hands-on experience across full-stack development, UI/UX design, and cloud architecture. I'm comfortable picking up new stacks quickly — from React and Node.js to Django and Spring Boot — and I enjoy owning a project end-to-end, from Figma mockups to shipped features. I'm AWS-certified in cloud architecture and foundations, and I'm currently expanding into test automation and DevOps fundamentals.
+I'm a 4th-year IT student who designs interfaces in Figma, then builds them myself — frontend and backend, in React, Node.js, and Django. I pick up new stacks fast (Spring Boot, Firebase, Cardano/Web3 have all shown up in shipped projects), and I like owning a project end-to-end rather than handing off a piece of it. AWS-certified in Cloud Architecting and Cloud Foundations. Currently expanding into TypeScript, Next.js, and web accessibility.
 
-<!---###
+<!---
+
 ## 🚀 Featured Projects
 
 - **[Ally – AI-Powered Legal Platform](https://github.com/piolonrqz/Capstone-ALLY)** *(Capstone)*
-  Designed the complete UI in Figma and implemented it in React (Vite) as frontend/UI-UX developer — a chat-first interface for AI-powered legal Q&A with role-based flows on a Firebase backend.
+  Designed the complete UI in Figma and shipped it as a production React (Vite) frontend — a chat-first interface for AI-powered legal Q&A, with real-time lawyer-client messaging and role-based flows on a Firebase backend.
 
 - **[Notes App – Web3 Notes Platform](https://github.com/piolonrqz/notes-app)**
   Built full-stack features for a hybrid Web2/Web3 notes app (React, Node.js/Express, MongoDB) with Cardano blockchain-based permanence, as part of a 5-person team.
 
 - **[CampusXperience – Campus Event Platform](https://github.com/sytrusz/campusxperience)**
-  Built the complete frontend for a full-stack campus event platform (discovery, reservation, ticketing, reminders) — React (Vite) frontend with a Spring Boot (Java) backend, built as part of a 5-person team.
+  Built the complete frontend for a campus event discovery, reservation, ticketing, and reminder platform — React (Vite) against a Spring Boot (Java) backend, as part of a 5-person team.
 
 - **[CrediGo – System Integration Project](https://github.com/Dadaisuk1/CrediGo_IT342)**
-  Independently designed and built the entire web app — frontend UI and backend API integration — for a System Integration and Architecture course project.
+  Independently designed and built the entire web app — frontend UI and backend API integration — for a systems integration and architecture course project, owned end-to-end.
 
 - **[Misisipi Cipher – Classical Encryption Chat App](https://github.com/Dadaisuk1/misisipi-cipher)**
   Built a full-stack chat app implementing classical encryption algorithms (Caesar, Vigenère, Rail Fence, Playfair) for message encryption and decryption.
---->
+
+
 ## 📜 Certifications
 
 - [AWS Academy Graduate – Cloud Architecting](https://www.credly.com/badges/0da04100-740d-41f0-95c1-9c688737edde/public_url) — Dec 2025
 - [AWS Academy Graduate – Cloud Foundations](https://www.credly.com/badges/42f391ac-3ece-45d5-ac7d-42169faecb69/public_url) — Oct 2025
+-->
 
 ## 🌱 Currently Expanding
 
-Test Automation (Playwright) · CI/CD fundamentals · Advanced AWS (Security/DevOps)
+TypeScript · Next.js · Web Accessibility (WCAG)
 
 ## 📫 Connect with Me
 
