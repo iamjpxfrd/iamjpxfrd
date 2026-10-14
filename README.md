@@ -1,7 +1,7 @@
 <!---### # Hi, I'm Darwin Darryl Jean Largoza 👋 -->
 ## Hi, I'm Darwin🙋‍♂️
 
-**Full Stack Developer & UI/UX Designer** — I take Figma to shipped, production software. React frontends, Node.js and Django backends, deployed on AWS.
+**Full Stack Developer & UI/UX Designer @ SYMPH** — I take Figma to shipped, production software. React frontends, Node.js and Django backends, deployed on AWS.
 
 ## About Me
 
